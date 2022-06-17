@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/elito-lenon-prates-956465141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-![Snaker animation](https://github.com/Lenonp/Lenonp/blob/output/github-contribution-grid-snaker.svg)
+![Snake animation](https://github.com/Lenonp/Lenonp/blob/output/github-contribution-grid-snake.svg)
   
   
 
