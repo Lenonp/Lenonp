@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/elito-lenon-prates-956465141/">
-    <img alt="Lenonp" src="./src/static/logo_noalpha.svg" width="100" />
+    <img alt="Lenonp" src="https://github.com/Lenonp/Lenonp/blob/main/.github/workflows/Foto-Elito.jpg" width="100" />
     <h2 align="center">Éliton Lenon Prates</h2>
   </a>
 </p> 
@@ -35,7 +35,7 @@
   <img align="center" alt="Lenonp-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Lenonp-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Lenonp-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="right" alt="Lenonp" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Lenonp" height="150" style="border-radius:50px;" src="https://github.com/Lenonp/Lenonp/blob/main/.github/workflows/Foto-Elito.jpg">
 </div>
   
   ##
