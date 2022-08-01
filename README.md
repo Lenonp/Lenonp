@@ -3,7 +3,7 @@
     <img alt="Lenonp" src="https://github.com/Lenonp/Lenonp/blob/main/.github/workflows/Foto-Elito.jpg" width="100" />
     <h2 align="center">Éliton Lenon Prates</h2>
   </a>
-    <a href="https://www.canva.com/design/DAEgVikpPHw/KAy47x7IN12bHGgvfHVX8A/view?utm_content=DAEgVikpPHw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/">
+  <a href="https://www.canva.com/design/DAEgVikpPHw/KAy47x7IN12bHGgvfHVX8A/viewutm_content=DAEgVikpPHw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/">
     <h3 align="center">Meu Currículo</h3>
   </a>
 </p> 
