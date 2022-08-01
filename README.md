@@ -11,7 +11,7 @@
 <p align="center">Student-Developer | Java | .Net | Fullstack | Back-End • Front-End |</p>
 
   <p align="center">
-    <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEgVikpPHw&#x2F;view?    utm_content=DAEgVikpPHw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Meu Currículo</a>
+    <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEgVikpPHw&#x2F;view?utm_content=DAEgVikpPHw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Meu Currículo</a>
   </p>
   
 ##
