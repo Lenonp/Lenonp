@@ -7,8 +7,10 @@
      padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
      border-radius: 8px; will-change: transform;">
   </div>
-<a align="center" href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEgVikpPHw&#x2F;view?    utm_content=DAEgVikpPHw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Meu Currículo</a>
-</p> 
+  
+  <p align="center">
+  <a align="center" href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEgVikpPHw&#x2F;view?         utm_content=DAEgVikpPHw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Meu Currículo</a>
+  </p>
 
 <p align="center">Student-Fullstack</p>
 
